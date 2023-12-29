@@ -26,10 +26,12 @@ To run this dashboard locally, follow these steps:
 3. Set up the PostgreSQL database:
     - Create a new PostgreSQL database and configure the necessary tables and schema.
     - Update the database connection configuration in the project code.
-    - Start the development server: npm run dev
-    - Open the dashboard in your browser: http://localhost:3000
 4. Start the development server: `npm run dev`
 5. Open the dashboard in your browser: `http://localhost:3000`
+
+Use the following credentials to login:
+- Email: user@nextmail.com
+- Password: 123456
 
 ## Deployment
 
