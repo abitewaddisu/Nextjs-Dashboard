@@ -2,6 +2,8 @@
 
 This project is a Next.js dashboard that I developed as part of a course. It provides a user-friendly interface for managing and visualizing data. The dashboard is built using Next.js, a popular React framework for server-side rendering and static site generation.
 
+![hero-desktop](https://github.com/abitewaddisu/Nextjs-Dashboard/assets/104774854/4f3ca814-929a-4c65-9cb1-b4b73ba3f5e5)
+
 ## Features
 
 - **Authentication**: The dashboard includes a secure authentication system that allows users to sign up, log in, and manage their accounts.
